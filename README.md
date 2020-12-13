@@ -1,4 +1,4 @@
-# ><> PS1                                                                         
+# 🐟 PS1                                                                         
 A minimal fish as a shell prompt. cos why not
 
 ## Features
