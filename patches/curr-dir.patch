@@ -1,0 +1,9 @@
+diff --git a/.fishPS1 b/.fishPS1
+index c446862..af02d39 100644
+--- a/.fishPS1
++++ b/.fishPS1
+@@ -1 +1 @@
+-export PS1="><> "
+\ No newline at end of file
++export PS1="${PWD//*\/} ><> "
+\ No newline at end of file
